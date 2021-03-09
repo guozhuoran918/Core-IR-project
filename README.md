@@ -2,7 +2,7 @@
 
 # Intro
 
-This is the L2R baseline for core IR project. The Task is passage ranking.
+This is core IR project for task passage ranking.
 
 # Technologies used
 
@@ -12,5 +12,5 @@ This is the L2R baseline for core IR project. The Task is passage ranking.
 # Scripts
 
 Here's a rundown of all the scripts:
-
+- **prModel.ipynb**: Implementing probabilistic baseline model and two improvements
 - **baseline_pyterrier_MWE_trec_DL.ipynb**: notebook that contains creating index, accessing data,and implementing L2R baseline
